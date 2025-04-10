@@ -1,4 +1,4 @@
-# User Registration API Documentation
+# Backend API Documentation
 
 ## Register User
 Register a new user in the system.
